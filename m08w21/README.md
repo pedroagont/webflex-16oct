@@ -2,8 +2,8 @@
 
 ### To Do
 
-- [ ] Building Components
-- [ ] Props
-- [ ] Fetching Data from an API
-- [ ] Immutable Patterns
-- [ ] Q and A
+- [ ] Connect frontend in react with backend in express
+
+### Video
+
+[https://vimeo.com/927324656/ffcdac465b?share=copy](https://vimeo.com/927324656/ffcdac465b?share=copy)
